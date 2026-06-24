@@ -25,11 +25,11 @@ https://bhoomidubey09.github.io/Amazon-Clone/
 
 ## 📂 Project Structure
 
+```text
 Amazon-Clone/
 │
 ├── index.html
 ├── style.css
-│
 ├── amazon_logo.png
 ├── hero_image.jpg
 ├── box1_image.jpg
@@ -40,6 +40,7 @@ Amazon-Clone/
 ├── box6_image.jpg
 ├── box7_image.jpg
 └── box8_image.jpg
+```
 
 
 ## 📸 Screenshot
