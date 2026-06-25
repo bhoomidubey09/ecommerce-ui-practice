@@ -3,10 +3,6 @@
 A frontend clone of the Amazon homepage built using HTML and CSS.  
 This project recreates the Amazon-style user interface with a navigation bar, search section, product categories, and footer.
 
-## 🚀 Live Demo
-
-https://bhoomidubey09.github.io/Amazon-Clone/
-
 ## 📌 Features
 
 - Amazon-style navigation bar
