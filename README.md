@@ -41,9 +41,9 @@ Amazon-Clone/
 
 ## 📸 Screenshot
 
-<img width="1908" height="968" alt="Screenshot 2026-06-24 200549" src="https://github.com/user-attachments/assets/a77bb54f-ed21-4e88-8054-678efe2b0368" />
+![alt text](<Screenshot 2026-06-25 152723.png>)
 
-<img width="1917" height="958" alt="Screenshot 2026-06-24 200618" src="https://github.com/user-attachments/assets/bd39a315-f633-41b3-b18f-a07d2c2e645b" />
+![alt text](<Screenshot 2026-06-25 153229.png>)
 
 
 ## 🎯 Purpose
