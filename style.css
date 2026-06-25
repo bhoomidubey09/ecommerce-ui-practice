@@ -18,21 +18,11 @@
     width: 100px;
 }
 
-/* .logo{
+.logo{
     background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
-} */
-.logo{
-    color:white;
-    font-size:28px;
-    font-weight:bold;
-    height:50px;
-    width:150px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
 }
 
 
